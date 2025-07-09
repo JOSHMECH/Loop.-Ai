@@ -163,7 +163,7 @@ header a:hover {
   position: absolute;
   top: 10%;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 50px;
+  font-size: 30px;
   max-width: 1000px;
   text-align: center;
   color: white;
@@ -313,7 +313,7 @@ header a:hover {
 }
 
 .signin-page h1 {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -456,7 +456,7 @@ header a:hover {
 }
 
 .features-section h1 {
-  font-size: 50px;
+  font-size: 30px;
   max-width: 600px;
   text-align: center;
   color: white;
@@ -503,7 +503,7 @@ header a:hover {
   position: absolute;
   top: 5%;
   left: 5%;
-  font-size: 35px;
+  font-size: 15px;
 }
 
 .features-card p {
@@ -563,7 +563,7 @@ header a:hover {
 }
 
 .chatApp-section .left-container h1 {
-  font-size: 50px;
+  font-size: 30px;
   max-width: 700px;
   margin-top: 0;
 }
@@ -640,7 +640,7 @@ header a:hover {
 
 .chatApp-section .right-container h2 {
   max-width: 400px;
-  font-size: 30px;
+  font-size: 20px;
   color: rgb(127, 109, 135);
   line-height: 35px;
 }
@@ -659,7 +659,7 @@ header a:hover {
 }
 
 .generative-section h1 {
-  font-size: 40px;
+  font-size: 20px;
   text-align: center;
   color: white;
   margin: 0;
@@ -708,7 +708,7 @@ header a:hover {
 }
 
 .generative-section .grid-box .grid-card .info h2 {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -750,7 +750,7 @@ header a:hover {
   bottom: 35%;
   left: 10%;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .generative-section .grid-box .grid2 p {
@@ -896,7 +896,7 @@ header a:hover {
 }
 
 .pricing-section .price-box h1 {
-  font-size: 40px;
+  font-size: 20px;
   color: #ffc786;
   margin-bottom: 20px;
 }
@@ -977,7 +977,7 @@ header a:hover {
 }
 
 .roadmap-section h1 {
-  font-size: 70px;
+  font-size: 50px;
   margin-top: 200px;
   text-align: center;
 }
@@ -1013,7 +1013,7 @@ header a:hover {
   position: absolute;
   bottom: 20%;
   left: 8%;
-  font-size: 50px;
+  font-size: 30px;
 }
 
 .roadmap-section .roadmap-card p {
@@ -1325,7 +1325,7 @@ footer .box-icons a:hover {
   }
 
   .hero h1 {
-    font-size: 35px;
+    font-size: 25px;
   }
 
   .hero h3 {
@@ -1440,7 +1440,7 @@ footer .box-icons a:hover {
   }
 
   footer h1 {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .hero {
@@ -1456,7 +1456,7 @@ footer .box-icons a:hover {
   }
 
   .head-left h1 {
-    font-size: 25px;
+    font-size: 15px;
   }
 
   header ul {
@@ -1507,17 +1507,17 @@ footer .box-icons a:hover {
   }
 
   .features-section h1 {
-    font-size: 30px;
+    font-size: 20px;
     max-width: 350px;
   }
 
   .chatApp-section .left-container h1 {
-    font-size: 40px;
+    font-size: 20px;
     margin-top: 100px;
   }
 
   .generative-section h1 {
-    font-size: 40px;
+    font-size: 20px;
     margin-top: 100px;
     max-width: 380px;
   }
@@ -1532,7 +1532,7 @@ footer .box-icons a:hover {
   }
 
   .generative-section .grid-box .grid-card .info h2 {
-    font-size: 40px;
+    font-size: 20px;
   }
 
   .generative-section .grid-box .grid-card .info h4 {
@@ -1546,7 +1546,7 @@ footer .box-icons a:hover {
 
   .generative-section .grid-box .grid2 h1 {
     bottom: 30%;
-    font-size: 45px;
+    font-size: 25px;
   }
 
   .generative-section .grid2 {
@@ -1576,7 +1576,7 @@ footer .box-icons a:hover {
   }
 
   .roadmap-section h1 {
-    font-size: 40px;
+    font-size: 20px;
     margin-bottom: 20%;
   }
 
@@ -1586,7 +1586,7 @@ footer .box-icons a:hover {
 
   .roadmap-cards-box .roadmap-card h2 {
     bottom: 35%;
-    font-size: 40px;
+    font-size: 20px;
   }
 
   footer {
@@ -1594,7 +1594,7 @@ footer .box-icons a:hover {
   }
 
   footer h1 {
-    font-size: 18px;
+    font-size: 12px;
     margin-left: 5%;
     color: gray;
     margin-top: 10%;
