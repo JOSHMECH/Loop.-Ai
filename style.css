@@ -169,10 +169,20 @@ header a:hover {
   color: white;
 }
 
+.title {
+  
+  top: 5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 22px;
+  max-width: 1000px;
+  text-align: center;
+  color: gray;
+}
+
 .hero h3 {
   position: absolute;
   top: 22%;
-  font-size: 20px;
+  font-size: 30px;
   max-width: 700px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
@@ -503,7 +513,7 @@ header a:hover {
   position: absolute;
   top: 5%;
   left: 5%;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .features-card p {
@@ -1329,7 +1339,7 @@ footer .box-icons a:hover {
   }
 
   .hero h3 {
-    font-size: 20px;
+    font-size: 25px;
     max-width: 500px;
   }
 
@@ -1468,7 +1478,7 @@ footer .box-icons a:hover {
   }
 
   .hero h3 {
-    font-size: 15px;
+    font-size: 20px;
     max-width: 350px;
     line-height: 22px;
   }
