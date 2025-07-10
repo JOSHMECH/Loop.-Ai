@@ -151,6 +151,24 @@ header a:hover {
   height: 100%;
   top: 90px;
   opacity: 0.4;
+  max-width: 100vw;
+  width: 100%;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+  object-fit: contain;
+}
+
+/* Responsive fix for mobile */
+@media screen and (max-width: 700px) {
+  .hero-rings-image {
+    height: 250px;
+    top: 60px;
+    width: 100vw;
+    left: 0;
+    right: 0;
+    max-width: 100vw;
+  }
 }
 
 .hero-icons-image {
@@ -498,25 +516,9 @@ header a:hover {
   background-color: rgb(17, 14, 27);
   border-radius: 20px;
   border-width: 30px;
-  background: linear-gradient(
-    to right,
-    #0f051d,
-    #070408,
-    #21023d,
-    #0d0113,
-    #1c012c,
-    #000000,
-    #160136
-    
-  );
-  background-size: 200%;
-  animation: animationGradient 2.5s linear infinite;
+  
 }
-@keyframes animationGradient {
-  to {
-    background-position: 200%;
-  }
-}
+
 
 .features-card h2 {
   position: absolute;
